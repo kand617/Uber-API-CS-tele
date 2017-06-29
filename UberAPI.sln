@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberAPI.PCL", "UberAPI.PCL/UberAPI.PCL.csproj", "{b518b9d4-b358-4370-9810-49fa6acb57a0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberAPI.Tests", "UberAPI.Tests/UberAPI.Tests.csproj", "{80a88c75-740f-4c34-8cd1-59ea46c8d824}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {b518b9d4-b358-4370-9810-49fa6acb57a0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {b518b9d4-b358-4370-9810-49fa6acb57a0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {b518b9d4-b358-4370-9810-49fa6acb57a0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {b518b9d4-b358-4370-9810-49fa6acb57a0}.Release|Any CPU.Build.0 = Release|Any CPU
+        {80a88c75-740f-4c34-8cd1-59ea46c8d824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {80a88c75-740f-4c34-8cd1-59ea46c8d824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {80a88c75-740f-4c34-8cd1-59ea46c8d824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {80a88c75-740f-4c34-8cd1-59ea46c8d824}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
